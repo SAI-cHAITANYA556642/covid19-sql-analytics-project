@@ -1,6 +1,6 @@
 # COVID-19 SQL Analytics Project  <br>
 
-## Objective  <br>
+## Objective <br>
 Analyze COVID-19 data using SQL to generate insights, including top countries, mortality rate, and regional summaries.<br>
 ## Tools Used  <br>
 - MySQL Workbench  <br>
